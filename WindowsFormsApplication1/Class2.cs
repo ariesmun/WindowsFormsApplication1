@@ -8,5 +8,8 @@ namespace WindowsFormsApplication1
 {
     class Class2
     {
+        //test
+        //test2//
+        //test3
     }
 }
