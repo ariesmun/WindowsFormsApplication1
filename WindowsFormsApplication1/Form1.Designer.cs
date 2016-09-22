@@ -20,6 +20,8 @@
             base.Dispose(disposing);
         }
 
+        //hello only
+
         #region Windows Form Designer generated code
 
         /// <summary>
